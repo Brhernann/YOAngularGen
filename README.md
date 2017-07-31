@@ -1,0 +1,2 @@
+# YOAngularGen
+Yeoman generator angularjs
